@@ -1,6 +1,6 @@
 # 🛠️ Chat-Payment Admin Panel
 
-This is the official **Admin Panel** for the [`chat-payment-app`](https://github.com/your-org/chat-payment-app). It provides backend administrative controls for monitoring, managing, and securing all payment operations within the Chat-Payment ecosystem.
+This is the official **Admin Panel** for the [`chat-payment-app`](https://github.com/ahsanmoizz/chat-payment). It provides backend administrative controls for monitoring, managing, and securing all payment operations within the Chat-Payment ecosystem.
 
 ---
 
